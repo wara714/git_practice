@@ -7,3 +7,4 @@ testは赤点でした。。。。
 後日追試になります。
 
 新しくnewBranchを作成してテキスト編集です。
+fffffffffffffffffffff
